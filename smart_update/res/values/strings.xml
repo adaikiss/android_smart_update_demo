@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmartUpdate</string>
+    <string name="check_upgrade">Check Upgrade</string>
+    <string name="cancel_upgrade">Cancel Upgrade</string>
+    <string name="install_upgrade">Install Upgrade</string>
+    <string name="label_version">Version:</string>
+    <string name="progress_loading">loading…</string>
+
+</resources>
