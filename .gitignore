@@ -1,0 +1,10 @@
+/smart_update/.classpath
+/smart_update/.project
+/smart_update/bin
+/smart_update/gen
+
+/smart_update_server/.project
+/smart_update_server/target
+/smart_update_server/.classpath
+
+/smart_update/libs
